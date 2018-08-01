@@ -1,0 +1,5 @@
+galaxy_info:
+  author: chris48s
+  description: Configuration for rsyslog/papertrail on DC web servers
+  min_ansible_version: 2.0
+  
